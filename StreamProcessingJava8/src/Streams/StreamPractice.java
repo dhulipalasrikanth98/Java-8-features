@@ -20,6 +20,7 @@ interface Intref {
 public class StreamPractice {
 
     public static void main(String[] args) {
+//create a method for every code snippet
 //        List<Integer> list = new ArrayList<>();
 //
 //        list.add(1);
